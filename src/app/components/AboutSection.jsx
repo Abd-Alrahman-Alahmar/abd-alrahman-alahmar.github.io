@@ -63,7 +63,7 @@ const AboutSection = () => {
           Proficient in front-end frameworks like React/Next and mobile technologies such as Flutter, 
           React Native, Java and Kotlin. I also have experience developing scalable back-ends using Node.js, 
           Python, and Go to power RESTful APIs. Holding a Bachelor of Science in Computer and Networking 
-          Engineering and Master's degree in Computing, earned with First Class Honors, I architect elegant 
+          Engineering and Master&apos;s degree in Computing, earned with First Class Honors, I architect elegant 
           solutions across the full stack. Motivated to take on complex challenges and deliver well-engineered 
           products to solve critical problems
           </p>
