@@ -14,7 +14,7 @@ module.exports = {
           'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
       },
       animation: {
-        'infinite-scroll-left': 'infinite-scroll-left 20s linear infinite',
+        'infinite-scroll-left': 'infinite-scroll-left 13s linear infinite',
         'infinite-scroll-right': 'infinite-scroll-right 35s linear infinite',
       },
       keyframes: {
