@@ -50,15 +50,24 @@ const projectsData = [
     gitUrl: "https://github.com/Abd-Alrahman-Alahmar/Personal-Expenses",
     previewUrl: "/",
   },
-  // {
-  //   id: 6,
-  //   title: " App",
-  //   description: "description",
-  //   image: "/images/projects/",
-  //   tag: ["All", "Mobile"],
-  //   gitUrl: "/",
-  //   previewUrl: "/",
-  // },
+  {
+    id: 6,
+    title: " ApartHotel",
+    description: "Reservation System",
+    image: "/images/projects/ApartHotel.jpg",
+    tag: ["All", "Web"],
+    gitUrl: "https://apart-hotel.vercel.app/",
+    previewUrl: "/",
+  },
+  {
+    id: 7,
+    title: " Learning Management System",
+    description: "Sell Your Online Courses",
+    image: "/images/projects/lms.jpg",
+    tag: ["All", "Web"],
+    gitUrl: "https://lms-client-snowy.vercel.app/",
+    previewUrl: "/",
+  },
 ];
 
 const ProjectsSection = () => {
