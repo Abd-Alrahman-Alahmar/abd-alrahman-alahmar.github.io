@@ -54,7 +54,7 @@ const projectsData = [
     id: 6,
     title: " ApartHotel",
     description: "Reservation System",
-    image: "/images/projects/apartHotel.jpg",
+    image: "/images/projects/aparthotel.jpg",
     tag: ["All", "Web"],
     gitUrl: "https://apart-hotel.vercel.app/",
     previewUrl: "/",
