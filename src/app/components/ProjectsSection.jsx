@@ -8,7 +8,7 @@ const projectsData = [
   {
     id: 1,
     title: "Monteva App",
-    description: "Project 4 description",
+    description: "Warranty App",
     image: "/images/projects/monteva-app.jpg",
     tag: ["All", "Mobile"],
     gitUrl: "https://apps.apple.com/ie/app/monteva/id6450029671?platform=iphone",
@@ -63,11 +63,21 @@ const projectsData = [
     id: 7,
     title: " Learning Management System",
     description: "Sell Your Online Courses",
-    image: "/images/projects/lms.jpg",
+    image: "/images/projects/LMSS.jpg",
     tag: ["All", "Web"],
     gitUrl: "https://lms-client-snowy.vercel.app/",
     previewUrl: "/",
   },
+  {
+    id: 8,
+    title: " E-Commerce Website",
+    description: "Sell Your Product Anywhere",
+    image: "/images/projects/NextCommerce.jpg",
+    tag: ["All", "Web"],
+    gitUrl: "https://next-e-commerce-nu-green.vercel.app/",
+    previewUrl: "/",
+  },
+  
 ];
 
 const ProjectsSection = () => {
